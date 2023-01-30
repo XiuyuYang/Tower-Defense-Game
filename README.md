@@ -21,3 +21,11 @@ I used two datatable methods to query the aggregate, the first datatable storing
 ![image](https://user-images.githubusercontent.com/54026897/215318057-9088894f-52a5-4788-9058-77fa0998b6f9.png)
 
 ![GIF 2023-1-29 22-17-25](https://user-images.githubusercontent.com/54026897/215316975-1e6a0e44-2e2c-4684-8f5d-a23ea5823a42.gif)
+
+30/01/2023
+
+Added detailed map poly(cliff only).
+
+![image](https://user-images.githubusercontent.com/54026897/215449119-432805a3-1535-44e4-828d-59f005079c5d.png)
+
+![GIF 2023-1-30 23-08-17](https://user-images.githubusercontent.com/54026897/215448519-6ff99dbb-4bf3-4217-b8f0-76ec073de38e.gif)
