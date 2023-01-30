@@ -76,6 +76,9 @@ for i in c.keys():
     print(count,i,c[i])
     count+=1
 print(len(c))
-# for i in new:
-#     print(i,"new")
-# print(len(new))
+
+for i in new:
+    print(i,"new")
+print(len(new))
+'''
+'''
