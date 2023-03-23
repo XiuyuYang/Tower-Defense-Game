@@ -29,3 +29,11 @@ Added detailed map poly(cliff only).
 ![image](https://user-images.githubusercontent.com/54026897/215449119-432805a3-1535-44e4-828d-59f005079c5d.png)
 
 ![GIF 2023-1-30 23-08-17](https://user-images.githubusercontent.com/54026897/215448519-6ff99dbb-4bf3-4217-b8f0-76ec073de38e.gif)
+
+23/03/2023
+
+Add some tile meshes / Clean up BPs / Add Edge BP / Add debug mode
+
+![GIF 2023-3-23 23-56-08](https://user-images.githubusercontent.com/54026897/227182933-72b731cc-7738-4117-aa36-7fb1501e4b66.gif)
+
+
