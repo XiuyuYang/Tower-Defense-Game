@@ -36,4 +36,10 @@ Add some tile meshes / Clean up BPs / Add Edge BP / Add debug mode
 
 ![GIF 2023-3-23 23-56-08](https://user-images.githubusercontent.com/54026897/227182933-72b731cc-7738-4117-aa36-7fb1501e4b66.gif)
 
+26/03/2023
+
+What I did today was to add some functionalities to BP_MapEdge, mainly registering adjacent terrains and height points in it, and registering these edges back to the height points and terrains. I also created some models of edges that may be used later.
+
+![image](https://user-images.githubusercontent.com/54026897/227714547-ee195215-9d87-4cc7-a734-a850069a7cf6.png)
+![image](https://user-images.githubusercontent.com/54026897/227714590-39519d15-fbe8-41a2-9d3b-8e3bd69d458b.png)
 
